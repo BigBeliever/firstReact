@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
     <h1 style={{color:'red', backgroundColor:'lightblue'}}
-        >My second project</h1>
+        >My React project</h1>
         
         <Link href="/about">Go to about page</Link>
 

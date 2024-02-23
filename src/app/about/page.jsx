@@ -6,7 +6,7 @@ export default function About(){
     <>
      <h1 className={styles.text}>About page</h1>
         <p className={`${styles.text} text`}>I am styled with the global </p>
-<Link href="/">Home</Link>
+{/* <Link href="/">Home</Link> */}
     </>   
     )
 }
